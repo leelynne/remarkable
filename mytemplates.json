@@ -1,0 +1,13 @@
+{
+    "templates":[
+    {
+        "name": "Habit Tracker",
+        "filename": "Habits",
+        "iconCode": "\ue9fd",
+        "landscape": true,
+        "categories": [
+            "Life/organize"
+        ]
+    }
+]
+}
